@@ -5,7 +5,7 @@
 #Description: Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available.
 
 # set local directory    
-setwd("D:/Coursera/Johns Hopkins University/04.Exploratory Data Analysis/Proj01")
+#setwd("D:/Coursera/Johns Hopkins University/04.Exploratory Data Analysis/Proj01")
 
 #install.packages("lubridate")
 #install.packages("sqldf")
